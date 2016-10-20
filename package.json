@@ -1,5 +1,5 @@
 {
-  "name": "example_tool",
+  "name": "ExampleTool",
   "version": "1.0.0",
   "description": "An example tool for developers.",
   "main": "View.js",
